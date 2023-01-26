@@ -21,7 +21,7 @@
 
 ![unique_titles](https://user-images.githubusercontent.com/119345840/214951657-88af0869-1779-49f1-be64-8e4f422bb164.PNG)
 
- - Finally, we have the correct dataset to fully determine the number of employees leaving the company in the "silver tsunami". The data shows that there are 25,916 Senior Engineers, 24,926 Senior Staff, 9,285 Engineers, 7,636 Staff, 3,603 Technique Leaders, 1,090 Assistant Engineers, and 2 Manangers retiring.
+ - Finally, we have the correct table to fully determine the number of employees leaving the company in the "silver tsunami". The data shows that there are 25,916 Senior Engineers, 24,926 Senior Staff, 9,285 Engineers, 7,636 Staff, 3,603 Technique Leaders, 1,090 Assistant Engineers, and 2 Manangers retiring.
 
 ![retiring_titles](https://user-images.githubusercontent.com/119345840/214952331-6b25ac97-bb05-496f-bc33-e5b31518a3ad.PNG)
 # Eligible Employees for the Mentorship Program
