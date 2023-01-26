@@ -17,10 +17,14 @@
 
 ![retirement titles](https://user-images.githubusercontent.com/119345840/214950908-aacfcda8-eb73-48ca-98bc-a141b95026b2.PNG)
 
- - Second we used the first table to create another that did not have employees that had already left the company by filtering on the hire dates.
+ - Then we used the first table to create another that did not have employees that had already left the company by filtering on the hire dates.
 
 ![unique_titles](https://user-images.githubusercontent.com/119345840/214951657-88af0869-1779-49f1-be64-8e4f422bb164.PNG)
 
+ - Finally, we have the correct dataset to fully determine the number of employees leaving the company in the "silver tsunami". The data shows that there are 25,916 Senior Engineers, 24,926 Senior Staff, 9,285 Engineers, 7,636 Staff, 3,603 Technique Leaders, 1,090 Assistant Engineers, and 2 Manangers retiring.
 
-300024 employees 41380 retiring = 13.70% leaving
-258,644 left =  86.21 remaining 
+![retiring_titles](https://user-images.githubusercontent.com/119345840/214952331-6b25ac97-bb05-496f-bc33-e5b31518a3ad.PNG)
+
+# Summary
+
+300024 employees 
