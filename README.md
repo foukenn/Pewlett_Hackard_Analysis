@@ -26,7 +26,7 @@
 ![retiring_titles](https://user-images.githubusercontent.com/119345840/214952331-6b25ac97-bb05-496f-bc33-e5b31518a3ad.PNG)
 # Eligible Employees for the Mentorship Program
 
- After the creation of the dataset, we were able to determine which employees were eligible for the mentorship program. I noticed that the data is grabbing many of the senior employees for this program, however, it makes clear sense why as they clearly have the most experience.
+ After the creation of the dataset, we were able to determine which employees were eligible for the mentorship program. I noticed that the data is grabbing many of the senior employees for this program, however, it makes sense why as they clearly have the most experience.
 
 ![mentorship](https://user-images.githubusercontent.com/119345840/214953885-c8f5abd8-7020-467c-9f9d-800497a14e50.PNG)
 
