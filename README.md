@@ -13,7 +13,7 @@
 
 <img width="453" alt="ERDiagram" src="https://user-images.githubusercontent.com/119345840/214940389-39cad9ee-ba13-4418-baf8-ec4f230fe6bc.png">
 
- - First we created a table that brokedown the data into retiring employees via thier titles and birthdates, which can be seen below.
+ - First we created a table that broke down the data into retiring employees via thier titles and birthdates, which can be seen below.
 
 ![retirement titles](https://user-images.githubusercontent.com/119345840/214950908-aacfcda8-eb73-48ca-98bc-a141b95026b2.PNG)
 
