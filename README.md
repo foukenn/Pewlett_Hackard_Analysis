@@ -33,4 +33,4 @@
 
 # Summary
 
-Currently within the company there are 300,024 employees, however there a total of 72,458 roles that will need to be occupied as the "silver tsunami" starts to roll into effect. There are also only a total of 1,549 eligible mentors for the mentorship program, meaning that during the hiring process there will not be enough people to train the new hires for their duties during the roll-in of the "silver tsunami".
+Currently within the company there are 300,024 employees, however there a total of 72,458 roles that will need to be filled as the "silver tsunami"  effects mount. There are also only a total of 1,549 eligible mentors for the mentorship program, meaning that during the hiring process there will not be enough people to train the new hires for their duties during "silver tsunami".
